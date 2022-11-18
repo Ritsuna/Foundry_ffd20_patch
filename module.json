@@ -1,0 +1,41 @@
+{
+	"id": "ffd20-patch",
+	"name": "ffd20-patch",
+	"title": "Patching 🩹 for ffd20",
+	"description": "Patching issues in Pathfinder 1e that don't yet have a release that fixes them.<br>This as such makes older versions more viable for play longer, if such is desired, and mitigates the need for downgrading the system version.",
+	"version": "10.1.2.1",
+	"authors": [
+		{
+			"name": "MKAh",
+			"url": "https://gitlab.com/mkahvi",
+			"discord": "Mana#4176",
+			"ko-fi": "mkahvi"
+		}
+	],
+	"esmodules": ["ffd20-patch.mjs"],
+	"system": ["ffd20"],
+	"minimumSystemVersion": "0.2.26",
+	"minimumCoreVersion": "0.8.9",
+	"compatibility": {
+		"minimum": "0.8.9",
+		"verified": 10
+	},
+	"relationships": {
+		"systems": [
+			{
+				"id": "ffd20",
+				"compatibility": {
+					"minimum": "0.2.26"
+				}
+			}
+		]
+	},
+	"library": true,
+	"license": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/raw/main/LICENSE",
+	"readme": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/raw/main/README.md",
+	"changelog": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/raw/main/CHANGELOG.md",
+	"manifest": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/releases/permalink/latest/downloads/module.json",
+	"download": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/releases/10.1.2.1/downloads/ffd20-patch.zip",
+	"url": "https://gitlab.com/mkah-fvtt/ffd20/patch",
+	"bugs": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/issues"
+}

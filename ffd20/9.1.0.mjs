@@ -1,0 +1,12 @@
+console.log('FFD20 PATCH 🩹 | 0.80.23 patches were applied earlier than normal patching mechanism.');
+console.warn('FFD20 PATCH 🩹 | Basic actors break migration, this can not be easily fixed. No mitigation applied.');
+import './patch/0.2.26/missing-quantity.mjs';
+import './patch/9.1.0/conditional-duplication.mjs';
+import './patch/9.1.0/damaging-ammo-recovery.mjs';
+import './patch/9.1.0/disable-incompatible-alt-sheet.mjs';
+import './patch/9.1.0/emergency-shutdown.mjs';
+import './patch/9.1.0/missing-sheet-render.mjs';
+import './patch/9.1.0/missing-template-content.mjs';
+import './patch/9.1.0/nan-power-attack.mjs';
+import './patch/9.1.0/temp-hp-sink.mjs';
+import './patch/9.1.0/weight-edits.mjs';
