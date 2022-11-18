@@ -31,11 +31,11 @@
 		]
 	},
 	"library": true,
-	"license": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/raw/main/LICENSE",
-	"readme": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/raw/main/README.md",
-	"changelog": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/raw/main/CHANGELOG.md",
-	"manifest": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/releases/permalink/latest/downloads/module.json",
-	"download": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/releases/10.1.2.1/downloads/ffd20-patch.zip",
-	"url": "https://gitlab.com/mkah-fvtt/ffd20/patch",
-	"bugs": "https://gitlab.com/mkah-fvtt/ffd20/patch/-/issues"
+	"license": "https://github.com/Ritsuna/Foundry_ffd20_patch/main/LICENSE",
+	"readme": "https://github.com/Ritsuna/Foundry_ffd20_patch/main/README.md",
+	"changelog": "https://github.com/Ritsuna/Foundry_ffd20_patch/main/CHANGELOG.md",
+	"manifest": "https://github.com/Ritsuna/Foundry_ffd20_patch/main/module.json",
+	"download": "https://https://github.com/Ritsuna/Foundry_ffd20_patch/releases/10.1.2.1/downloads/ffd20-patch.zip",
+	"url": "https://github.com/Ritsuna/Foundry_ffd20_patch",
+	"bugs": "https://github.com/Ritsuna/Foundry_ffd20_patch/issues"
 }
