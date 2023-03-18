@@ -3,7 +3,7 @@
 	"name": "ffd20-patch",
 	"title": "Patching 🩹 for ffd20",
 	"description": "Patching issues in Pathfinder 1e that don't yet have a release that fixes them.<br>This as such makes older versions more viable for play longer, if such is desired, and mitigates the need for downgrading the system version.",
-	"version": "10.1.2.1",
+	"version": "10.1.5.1",
 	"authors": [
 		{
 			"name": "MKAh",
@@ -35,7 +35,7 @@
 	"readme": "https://github.com/Ritsuna/Foundry_ffd20_patch/main/README.md",
 	"changelog": "https://github.com/Ritsuna/Foundry_ffd20_patch/main/CHANGELOG.md",
 	"manifest": "https://raw.githubusercontent.com/Ritsuna/Foundry_ffd20_patch/main/module.json",
-	"download": "https://github.com/Ritsuna/Foundry_ffd20_patch/archive/refs/tags/10.1.2.1.zip",
+	"download": "https://github.com/Ritsuna/Foundry_ffd20_patch/archive/refs/tags/10.1.5.1.zip",
 	"url": "https://github.com/Ritsuna/Foundry_ffd20_patch",
 	"bugs": "https://github.com/Ritsuna/Foundry_ffd20_patch/issues"
 }

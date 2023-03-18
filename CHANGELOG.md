@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.82.5
+
+- Fix setItemDictionaryFlag() and setItemDictionaryFlag() are overtly strict [#1989](https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/issues/1989')
+
+## 0.82.3 – 0.82.4
+
+- Fix ItemSpellPF.getDefaultChargeFormula() cost of undefined [#1902](https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/issues/1902)
+- Hotfix (.1) corrects an infinite loop with spellbooks that don't use spellpoints.
+- Hotfix (.2) corrects some version checking in this module that was wrong way around.
+
 ## 0.82.2
 
 - Fix default on conditionals [#1674](https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/issues/1674)
